@@ -1,3 +1,51 @@
 body {
-    background-color: blue;
+    background-color: lightcyan;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1 {
+    margin: 0 auto 0 auto;
+}
+
+h2, h3, a {
+    color: #11999E;
+}
+
+.my-name-my-profession {
+    color: #66BFBF;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+#my-name {
+    font-family: 'Sacramento', cursive;
+}
+
+#my-profession {
+    margin-top: 20px;
+    font-size: 2rem;
+    font-family: 'Ruda', sans-serif;
+    font-weight: normal;
+}
+
+.top-cloud {
+    position: relative;
+    left: 270px;
+    top: 20px;
+}
+.bottom-cloud {
+    position: relative;
+    left: 50px;
+    top: -280px;
+}
+.mountain {
+    position: relative;
+    left: -50px;
+    top: 20px;
+}
+
+.computer-image {
+    border-radius: 100%;
 }
